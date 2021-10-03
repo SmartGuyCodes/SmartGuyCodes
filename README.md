@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Charle Evans Ogego Otieno 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SmartGuyCodes" alt="SmartGuyCodes" /> </p>
+
+## A passionate Software ENgineer from Kenya.
+
+- 💻 Currently I am Software Engineer at eMboga Connect
+- 💬 Ask me about **PHP, Symfony, CodeIgniter, Laravel**
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I love playing Chess and Go 😎
 
 <!--
 **SmartGuyCodes/SmartGuyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
