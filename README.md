@@ -1,4 +1,4 @@
-# Hi there, I'm Charles Evans Ogego Otieno 👋
+# Hi there 👋, I'm Charles Evans Ogego Otieno, the Smart Guy who Codes
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SmartGuyCodes" alt="SmartGuyCodes" /> </p>
 
