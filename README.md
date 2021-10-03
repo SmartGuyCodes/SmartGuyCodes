@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SmartGuyCodes" alt="SmartGuyCodes" /> </p>
 
-## A passionate Software ENgineer from Kenya.
+## A passionate Software Engineer from Kenya.
 
-- 💻 Currently I am Software Engineer at eMboga Connect
+- 💻 Currently I am Software Engineer at eMboga Connect Ltd.
 - 💬 Ask me about **PHP, Symfony, CodeIgniter, Laravel**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love playing Chess and Go 😎
