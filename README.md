@@ -78,6 +78,7 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-2B768F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/mongodb-54AB53?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL"/>
 </p>
