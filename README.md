@@ -4,7 +4,7 @@
 
 ## A passionate Software Engineer from Kenya.
 
-- 💻 Currently I am Software Engineer at eMboga Connect Ltd.
+- 💻 Currently I am a Software Engineer at eMboga Connect Ltd.
 - 💬 Ask me about **PHP, Symfony, CodeIgniter, Laravel**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love playing Chess and Go 😎
