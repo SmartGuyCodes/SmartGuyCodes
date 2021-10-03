@@ -61,6 +61,7 @@
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
+<img src="https://img.shields.io/badge/smarty-F2C95C?style=for-the-badge&logo=smarty&logoColor=white" alt="Smarty"/>
 
 </p>
 
