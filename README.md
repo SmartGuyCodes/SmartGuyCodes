@@ -79,13 +79,18 @@
 ### **Databases**
 
 <p align="left">
-<img src="https://img.shields.io/badge/MySQL-2B768F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MySQL-2B768F?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40" alt="MySQL"/>
 <img src="https://img.shields.io/badge/mongodb-54AB53?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL"/>
 </p>
 
 ---
+## **Programming and Github Stats**
+
+[![SmartGuyCodes' github stats](https://github-readme-stats.vercel.app/api?username=SmartGuyCodes&theme=radical)](https://github.com/SmartGuyCodes/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartGuyCodes&layout=compact&theme=radical)](https://github.com/SmartGuyCodes)
+<br>
 <!--
 **SmartGuyCodes/SmartGuyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
