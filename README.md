@@ -59,6 +59,7 @@
 <!-- <img src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="NuxtJS"/> -->
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
 
 </p>
@@ -66,6 +67,7 @@
 ### **Backend**
 
 <p align="left">
+<img src="https://img.shields.io/badge/Symfony-1A171B?logo=symfony&style=for-the-badge&logoColor=white" alt="Symfony"/>
 <img src="https://img.shields.io/badge/Laravel-EC442B?logo=laravel&style=for-the-badge&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/Codeigniter-DD4927?logo=codeigniter&style=for-the-badge&logoColor=white" alt="Codeigniter"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?logo=expressjs&style=for-the-badge" alt="ExpressJS"/>
