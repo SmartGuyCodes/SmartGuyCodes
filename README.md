@@ -68,7 +68,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Laravel-EC442B?logo=laravel&style=for-the-badge&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/Codeigniter-DD4927?logo=codeigniter&style=for-the-badge&logoColor=white" alt="Codeigniter"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJS"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?logo=expressjs&style=for-the-badge" alt="ExpressJS"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
