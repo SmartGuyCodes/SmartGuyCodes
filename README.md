@@ -5,7 +5,7 @@
 ## A passionate Software Engineer from Kenya.
 
 - 💻 Currently I am a Software Engineer at eMboga Connect Ltd.
-- 💬 Ask me about **PHP, Symfony, CodeIgniter, Laravel**
+- 💬 Ask me about **PHP, Symfony, CodeIgniter, Laravel, Dart, Flutter**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love playing Chess and Go 😎
 
@@ -71,6 +71,7 @@
 <img src="https://img.shields.io/badge/Symfony-1A171B?logo=symfony&style=for-the-badge&logoColor=white" alt="Symfony"/>
 <img src="https://img.shields.io/badge/Laravel-EC442B?logo=laravel&style=for-the-badge&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/Codeigniter-DD4927?logo=codeigniter&style=for-the-badge&logoColor=white" alt="Codeigniter"/>
+<img src="https://img.shields.io/badge/Flutter-53D1FC?logo=flutter&style=for-the-badge&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?logo=expressjs&style=for-the-badge" alt="ExpressJS"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
