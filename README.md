@@ -11,6 +11,8 @@
 
 ---
 
+![snake gif](https://github.com/scozdev/scozdev/blob/output/github-contribution-grid-snake.gif)
+
 ## **Connect with me**
 
 <div align="left">
