@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Charles Evans Ogego Otieno
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SmartGuyCodes" alt="SmartGuyCodes" /> 
-[![wakatime](https://wakatime.com/badge/user/b4deaa3e-73c2-427c-9079-d7cc2333d568.svg)](https://wakatime.com/@b4deaa3e-73c2-427c-9079-d7cc2333d568)</p>
+<img src="https://komarev.com/ghpvc/?username=SmartGuyCodes" alt="SmartGuyCodes" /> 
+[![wakatime](https://wakatime.com/badge/user/b4deaa3e-73c2-427c-9079-d7cc2333d568.svg)](https://wakatime.com/@b4deaa3e-73c2-427c-9079-d7cc2333d568)
 
 ## A passionate Software Engineer from Kenya.
 
