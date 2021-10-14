@@ -92,7 +92,7 @@
 ---
 ## **Programming and Github Stats**
 
-[![SmartGuyCodes' github stats](https://github-readme-stats.vercel.app/api?username=SmartGuyCodes&theme=radical&count_private=true)](https://github.com/SmartGuyCodes/)
+[![SmartGuyCodes' github stats](https://github-readme-stats.vercel.app/api?username=SmartGuyCodes&theme=radical&count_private=true&hide=stars)](https://github.com/SmartGuyCodes/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartGuyCodes&layout=compact&theme=radical)](https://github.com/SmartGuyCodes)
 <br>
 <!--
