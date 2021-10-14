@@ -93,7 +93,6 @@
 ## **Programming and Github Stats**
 
 [![SmartGuyCodes' github stats](https://github-readme-stats.vercel.app/api?username=SmartGuyCodes&theme=dracula&count_private=true&hide=stars&show_icons=true)](https://github.com/SmartGuyCodes/)
-
 [![SmartGuyCodes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartGuyCodes&layout=compact&theme=dracula&langs_count=10)](https://github.com/SmartGuyCodes)
 <br>
 
