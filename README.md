@@ -6,15 +6,14 @@
 ## A passionate Software Engineer from Kenya.
 
 <!-- - 💻 Currently I am a Software Engineer at eMboga Connect Ltd. -->
-- 💬 Ask me about **PHP, Symfony, CodeIgniter, Laravel, Javascript, VueJs, Quasar**
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I love playing Chess and Go 😎
-- 🔭 I’m currently working on a Kenyan Social Media API
-- 🌱 I’m currently learning Dart Programming Language
-- 👯 I’m looking to collaborate on an API development project
-- 🤔 I’m looking for help with Go Language
-- 💬 Ask me about RESTful APIs development
-- 📫 How to reach me: @CodeArtist254 on twitter
+- 💬 Ask me about **Symfony RESTful APIs development and Frontend development using Javascript, VueJs & Quasar Framework**
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: I love playing **Chess and Go 😎**
+- 🔭 I’m currently working on **a Kenyan Social Media API**
+- 🌱 I’m currently learning **Dart Programming Language**
+- 👯 I’m looking to collaborate on an **API development project**
+- 🤔 I’m looking for help with **Go Language**
+- 📫 How to reach me: **@CodeArtist254** on twitter
 
 ---
 
