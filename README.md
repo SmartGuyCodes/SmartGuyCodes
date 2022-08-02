@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartguycodes" alt="smartguycodes" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codeartist254" target="blank"><img src="https://img.shields.io/twitter/follow/codeartist254?logo=twitter&style=for-the-badge" alt="codeartist254" /></a> </p>
+<p align="left"> <a href="https://twitter.com/codeartist254" target="blank"><img src="https://img.shields.io/twitter/follow/SmartGuyCodes?logo=twitter&style=for-the-badge" alt="SmartGuyCodes" /></a> </p>
 
 - 🔭 I’m currently working on [eMboga Marketplace](https://e-mboga.co.ke)
 
