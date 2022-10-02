@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codeartist254" target="blank"><img src="https://img.shields.io/twitter/follow/SmartGuyCodes?logo=twitter&style=for-the-badge" alt="SmartGuyCodes" /></a> </p>
 
-- 🔭 I’m currently working on **Mobility-As-A-Service Solution**
+- 🔭 I’m currently working on a **Mobility-As-A-Service Solution**
 
 - 🌱 I’m currently learning **Rust**
 
