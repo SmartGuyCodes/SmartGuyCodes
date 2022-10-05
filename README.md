@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a **Mobility-As-A-Service Solution**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Laravel** and **NextJS**
 
