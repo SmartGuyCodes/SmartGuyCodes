@@ -1,4 +1,25 @@
-<h1 align="center">Hi 👋, I'm Charles Evans Ogego Otieno</h1>
+### ~~ Wecome ~~ 👋
+
+- 🔭 ** PHP, Laravel, NodeJS, Python
+- 🔭 ** Android/Java/Kotlin, iOS/Swift, ReactJS/VueJS/TypeScript, Javascript, jQuery,
+- 🔭 ** Firebase(Analytics, Crashlytics, SMS, Email, Notification, Functions)
+- 🔭 ** MPESA, Stripe, Paypal, Plaid, Flutterwave, Railsbank, Square
+- 🔭 ** Blockchain, web3, etherjs, walletconnect, metamask, rainbowkit
+- 🌱 I focus on FinTech.
+
+
+|  |      |
+| :---        |        ----------       |
+[![C.E.O. Ogego's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartGuyCodes&count_private=true)](https://github.com/SmartGuyCodes) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartGuyCodes&count_private=true&show_icons=true&layout=compact)](https://github.com/SmartGuyCodes) |
+
+[![C.E.O. Ogego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SmartGuyCodes)](https://github.com/SmartGuyCodes)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devstar0209&repo=Jax-Wallet-Android)](https://github.com/devstar0209/Jax-Wallet-Android) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SmartGuyCodes&repo=Jax-Wallet-Android)](https://github.com/SmartGuyCodes/Jax-Wallet-Android)
+
+
+
+
+<!--<h1 align="center">Hi 👋, I'm Charles Evans Ogego Otieno</h1>
 <h3 align="center">A passionate fullstack web developer from Nairobi, Kenya</h3>
 
 [![Status for @SmartGuyCodes](https://badge.stateful.com/SmartGuyCodes/status.svg)](https://app.stateful.com/@SmartGuyCodes)
@@ -19,8 +40,7 @@
 - 📫 How to reach me **smartguycodes@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,6 +62,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smartguycodes&show_icons=true&locale=en" alt="smartguycodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smartguycodes&" alt="smartguycodes" /></p>
+-->
 
 
 
