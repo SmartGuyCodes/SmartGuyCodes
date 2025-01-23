@@ -10,7 +10,8 @@
 
 |  |      |
 | :---        |        ----------       |
-[![C.E.O. Ogego's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartGuyCodes&count_private=true)](https://github.com/SmartGuyCodes) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartGuyCodes&count_private=true&show_icons=true&layout=compact)](https://github.com/SmartGuyCodes) |
+<!--[![C.E.O. Ogego's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartGuyCodes&count_private=true)](https://github.com/SmartGuyCodes)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmartGuyCodes&count_private=true&show_icons=true&layout=compact)](https://github.com/SmartGuyCodes) |
 
 <!-- [![C.E.O. Ogego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SmartGuyCodes)](https://github.com/SmartGuyCodes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devstar0209&repo=Jax-Wallet-Android)](https://github.com/devstar0209/Jax-Wallet-Android)
