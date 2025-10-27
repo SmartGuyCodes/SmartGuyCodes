@@ -5,7 +5,7 @@
 Welcome to my digital workshop! I'm a programmer with a habit of turning curiosity into code. This space is dedicated to the projects I love building. Go ahead and browse; no guarantees you won't be bored, but you might just stumble on something neat.
 
 ## 🏆 My Stats
-![SmartGuyCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartGuyCodes&hide=contribs,prs&theme=dracula)
+![SmartGuyCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmartGuyCodes&theme=dracula)
 <br><br>  
 ##  💻 Tech
 [![My Skills](https://skillicons.dev/icons?i=php,py,java,laravel,fastapi,flask,spring,html,js,jquery,vue,react,mysql,idea,postman,linux&perline=15)](https://skillicons.dev)
